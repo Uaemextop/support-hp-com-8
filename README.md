@@ -10,4 +10,4 @@
 | Git push every | 100 files |
 | Debug | true |
 | Run | #105 |
-| Status | 🔄 Crawling in progress… |
+| Status | ✅ Crawl complete |
